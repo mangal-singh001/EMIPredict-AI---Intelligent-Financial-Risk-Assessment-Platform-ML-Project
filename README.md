@@ -247,9 +247,5 @@ It bridges the gap between data science and real-world financial decision-making
 * 📘 **GitHub Repository:** [EMIPredict AI Project](https://github.com/mangal-singh001/EMIPredict-AI---Intelligent-Financial-Risk-Assessment-Platform-ML-Project)
 * 📄 **Project Report:** [`Project Title.pdf`](./Project%20Title.pdf)
 * 🎥 **Demo Video:** *(to be added after upload)*
-* ☁️ **Live Streamlit App:** *(to be added after deployment)*
+* ☁️ **Live Streamlit App:** *(to be added after deployment)**
 
----
-
-Would you like me to format this README in **Markdown file syntax (with emojis, bold text, headers, and code blocks ready for copy-paste into GitHub)**?
-I can also add **badges (Python version, MLflow, Streamlit, license, etc.)** for a professional look.
