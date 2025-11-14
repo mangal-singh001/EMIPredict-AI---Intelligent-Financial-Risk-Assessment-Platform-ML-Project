@@ -2,6 +2,10 @@
 
 ### 🚀 FinTech | Machine Learning | MLflow | Streamlit Cloud
 
+<p align="center">
+  <img src="./Demo.png" alt="EMIPredict AI Demo" width="800"/>
+</p>
+
 **EMIPredict AI** is a comprehensive **Financial Risk Assessment Platform** built using advanced **Machine Learning models**, **MLflow tracking**, and a **Streamlit web interface**.
 The system predicts **EMI Eligibility (Classification)** and **Maximum EMI Amount (Regression)** based on customer financial profiles, enabling data-driven loan decision-making.
 
