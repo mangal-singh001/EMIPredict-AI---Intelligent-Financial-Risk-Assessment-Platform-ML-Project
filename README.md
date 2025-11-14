@@ -2,6 +2,8 @@
 
 ### 🚀 FinTech | Machine Learning | MLflow | Streamlit Cloud
 
+
+
 <p align="center">
   <img src="./Demo.png" alt="EMIPredict AI Demo" width="800"/>
 </p>
