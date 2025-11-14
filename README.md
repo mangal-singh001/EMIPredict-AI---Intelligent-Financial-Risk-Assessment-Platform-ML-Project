@@ -253,3 +253,6 @@ It bridges the gap between data science and real-world financial decision-making
 * 🎥 **Demo Video:** *(to be added after upload)*
 * ☁️ **Live Streamlit App:** *(to be added after deployment)**
 
+---
+
+⭐ If you like this project, don’t forget to give it a star on GitHub! ⭐
