@@ -1,9 +1,3 @@
-Here’s a **professional and complete README.md** for your GitHub repository
-[`EMIPredict-AI---Intelligent-Financial-Risk-Assessment-Platform-ML-Project`](https://github.com/mangal-singh001/EMIPredict-AI---Intelligent-Financial-Risk-Assessment-Platform-ML-Project).
-It’s clean, well-structured, and optimized for recruiters, collaborators, and portfolio presentation.
-
----
-
 # 🧠 EMIPredict AI – Intelligent Financial Risk Assessment Platform
 
 ### 🚀 FinTech | Machine Learning | MLflow | Streamlit Cloud
